@@ -2,7 +2,7 @@
 # CS student at **Missouri S&T** (B.S. Computer Science, expected 2028) 
 
 Building practical, self-hosted tools — from computer-vision systems to Linux automation.
-Prefer the CLI, but working with javascript at **Navarro(https://naravo.net/#product)**
+Prefer the CLI, but working with javascript at **[Navarro](https://naravo.net/#product)**
 
 -  **Currently building:** a self-hosted home security system using YOLO computer vision
 -  **Exploring:** self-hosted LLM deployment, containerized services, and web scraping pipelines
