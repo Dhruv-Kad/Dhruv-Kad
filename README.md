@@ -1,8 +1,8 @@
 
 # CS student at **Missouri S&T** (B.S. Computer Science, expected 2028) 
 
-    I like building practical, self-hosted tools — from computer-vision systems to Linux automation.
-    Prefer the CLI, but dipping my toes into javascript as a Software Engineer at **Navarro**
+Building practical, self-hosted tools — from computer-vision systems to Linux automation.
+Prefer the CLI, but working with javascript at **Navarro**
 
 -  **Currently building:** a self-hosted home security system using YOLO computer vision
 -  **Exploring:** self-hosted LLM deployment, containerized services, and web scraping pipelines
