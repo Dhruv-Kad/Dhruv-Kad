@@ -1,11 +1,13 @@
-# Hi, I'm Dhruv 👋
 
-CS student at **Missouri S&T** (B.S. Computer Science, expected 2028) and Software Engineer at **Navarro**. I like building practical, self-hosted tools — from computer-vision systems to Linux automation.
+# CS student at **Missouri S&T** (B.S. Computer Science, expected 2028) 
 
-- 🔭 **Currently building:** a self-hosted home security system using YOLO computer vision
-- 🌱 **Exploring:** self-hosted LLM deployment, containerized services, and web scraping pipelines
-- 🛠️ **Comfortable with:** Python, JavaScript/React, C++, Rust, Bash
-- 📫 **Reach me:** kadamdhruv@gmail.com · [LinkedIn](https://www.linkedin.com/in/dhruv-kad/)
+    I like building practical, self-hosted tools — from computer-vision systems to Linux automation.
+    Prefer the CLI, but dipping my toes into javascript as a Software Engineer at **Navarro**
+
+-  **Currently building:** a self-hosted home security system using YOLO computer vision
+-  **Exploring:** self-hosted LLM deployment, containerized services, and web scraping pipelines
+- **Comfortable with:** Python, C++, Rust, Bash
+-  **Reach me:** kadamdhruv@gmail.com · [LinkedIn](https://www.linkedin.com/in/dhruv-kad/)
 
 ### Tech
 `Python` · `JavaScript / React` · `C++` · `Rust` · `Bash` · `Docker` · `Linux` · `YOLO` · `ArcGIS` · `Git`
