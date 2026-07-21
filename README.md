@@ -17,3 +17,4 @@ Prefer the CLI, but working with javascript at **[Navarro](https://naravo.net/#p
 - **[curlstatus](https://github.com/Dhruv-Kad/curlstatus)** — `curl`-able endpoint reporting remote server and Docker container status (C++).
 - **[pickhacks-AIZone](https://github.com/Dhruv-Kad/pickhacks-AIZone)** — hackathon project built at PickHacks.
 - **Home Security Service** *(in progress)* — real-time activity detection with YOLO, deployed via Docker on a Linux server.
+  .
