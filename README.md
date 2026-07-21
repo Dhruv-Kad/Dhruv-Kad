@@ -16,5 +16,6 @@ Prefer the CLI, currently working with javascript at **[Navarro](https://naravo.
 - **[ZoningWebscraper](https://github.com/Dhruv-Kad/ZoningWebscraper)** — automated pipeline for locating and collecting zoning documents.
 - **[curlstatus](https://github.com/Dhruv-Kad/curlstatus)** — `curl`-able endpoint reporting remote server and Docker container status (C++).
 - **[pickhacks-AIZone](https://github.com/Dhruv-Kad/pickhacks-AIZone)** — hackathon project built at PickHacks.
+- **[Resume](https://github.com/Dhruv-Kad/resume/blob/30650441a44c6218ec519ba64fef2a9124043659/resume.org)** - my resume
 - **Home Security Service** *(in progress)* — real-time activity detection with YOLO, deployed via Docker on a Linux server.
   .
