@@ -13,7 +13,7 @@ Prefer the CLI, currently working with javascript at **[Naravo](https://naravo.n
 `Python` · `JavaScript / React` · `C++` · `Rust` · `Bash` · `Docker` · `Linux` · `YOLO` · `ArcGIS` · `Git`
 
 ### Featured Projects
-- **[Local_AI](https://github.com/Dhruv-Kad/local-ai-deployment)** — Containrized local LLM.
+- **[Local_AI](https://github.com/Dhruv-Kad/local-ai-deployment)** — Dockerized local LLM.
 - **[AIZone](https://github.com/Dhruv-Kad/pickhacks-AIZone)** — AI-powered zoning insights. Hackathon Project.
 - **[curlstatus](https://github.com/Dhruv-Kad/curlstatus)** — `curl`-able endpoint reporting remote server and Docker container status (C++). One of the CLI tools made to help make my selfhosting life
 easier.
