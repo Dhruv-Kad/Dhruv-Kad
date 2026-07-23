@@ -2,7 +2,7 @@
 # CS student at **Missouri S&T** (B.S. Computer Science, expected 2028) 
 
 Building practical, self-hosted tools.
-Prefer the CLI, currently working with javascript at **[Naravo](https://naravo.net/#product)**. <-- (Car Dealerships tap in.)
+Prefer the CLI, currently working with the guys over at **[Naravo](https://naravo.net/#product)**. <-- (Car Dealerships tap in.)
 
 -  **Currently building:** a self-hosted home security system using YOLO computer vision
 -  **Exploring:** self-hosted LLM deployment, containerized services, and web scraping pipelines
